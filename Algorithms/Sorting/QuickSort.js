@@ -1,0 +1,1 @@
+//here we choose an element which becomes the pivot and then we start traveling towards left o that all numbers greater than this are on it's right
